@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node Telegraf.js"
   },
-  "author": "Tio",
+  "author": "ARES S NYA SIGMA",
   "license": "ISC",
    "engines": {
     "node": "18.x"
